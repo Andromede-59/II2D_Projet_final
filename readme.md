@@ -11,6 +11,6 @@ Nous avons donc réalisé ce projet durant 5 semaines et nous obtenons maintenan
 
 Pour lancer le projet, il vous suffit de vous mettre à la racine du projet et de lancer un serveur php.
 
-```$~ php -S 127.0.0.1:3000```
+```~$ php -S 127.0.0.1:3000```
 
 Ensuite rendez vous sur l'addresse que vous avez rentré et le code s'executera automatiquement.
